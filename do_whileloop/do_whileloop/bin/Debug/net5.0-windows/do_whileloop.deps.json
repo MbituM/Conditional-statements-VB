@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "do_whileloop/1.0.0": {
+        "runtime": {
+          "do_whileloop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "do_whileloop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
